@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.heading{
+  color: aqua;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-family: 'Red Rose', cursive;
+}
+.img_div{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  
+}
+.img_div img{
+  width: 200px;
+  height: 300px;
+}
