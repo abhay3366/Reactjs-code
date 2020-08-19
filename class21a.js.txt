@@ -1,0 +1,9 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+  // var c = Sum(5,8);
+  
+  // var e = Multiplication(5,8);
+ReactDOM.render(<App></App>,
+  document.getElementById("root")
+)
